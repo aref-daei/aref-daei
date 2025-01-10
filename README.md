@@ -9,7 +9,6 @@
     <img src="https://skillicons.dev/icons?i=aws,cloudflare,gcp" alt="Cloud platforms"><br>
     <img src="https://skillicons.dev/icons?i=bootstrap,jquery,django,flask,fastapi,wordpress" alt="Web frameworks and technologies"><br>
     <img src="https://skillicons.dev/icons?i=qt,pytorch,tensorflow,sklearn" alt="Other frameworks and libraries"><br>
-    <img src="https://skillicons.dev/icons?i=git,github,docker" alt="Tools"><br>
     <img src="https://skillicons.dev/icons?i=vscode,neovim,vim,figma,xd,ai,ps" alt="IDEs"><br>
     <img src="https://skillicons.dev/icons?i=windows,linux,bsd" alt="Operating system">
   </a>
