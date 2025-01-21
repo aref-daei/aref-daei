@@ -2,15 +2,17 @@
 
 **I'm Aref;** I'm a back-end developer, designer and university student. I'm interested in development and work with the following technologies:
 
-<div align="center">
+[![My Skills](https://skillicons.dev/icons?i=py,js,go,c,postgres,sqlite,mongodb,redis,django,flask,fastapi,wordpress,qt,pytorch,tensorflow,sklearn,vscode,figma,ai,ps,windows,linux,bsd&perline=4)](https://skillicons.dev)
+
+<!-- <div align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=html,css,js,py,go,c,latex" alt="Programming, scripting, and markup languages"><br>
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis" alt="Databases"><br>
-    <img src="https://skillicons.dev/icons?i=bootstrap,jquery,django,flask,fastapi,wordpress" alt="Web frameworks and technologies"><br>
+    <img src="https://skillicons.dev/icons?i=py,js,go,c" alt="Programming, scripting, and markup languages"><br>
+    <img src="https://skillicons.dev/icons?i=postgres,sqlite,mongodb,redis" alt="Databases"><br>
+    <img src="https://skillicons.dev/icons?i=django,flask,fastapi,wordpress" alt="Web frameworks and technologies"><br>
     <img src="https://skillicons.dev/icons?i=qt,pytorch,tensorflow,sklearn" alt="Other frameworks and libraries"><br>
     <img src="https://skillicons.dev/icons?i=windows,linux,bsd" alt="Operating system">
   </a>
-</div>
+</div> -->
 
 ## Contact Me
 
