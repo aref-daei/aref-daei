@@ -2,7 +2,7 @@
 
 **I'm Aref;** I'm a back-end developer, designer and university student. I'm interested in development and work with the following technologies:
 
-[![My Skills](https://skillicons.dev/icons?i=py,c,java,mongodb,django,flask,fastapi,pytorch,tensorflow,sklearn)](#)
+[![My Skills](https://skillicons.dev/icons?i=py,c,java,mongodb,django,flask)](#)
 
 ## Contact Me
 
