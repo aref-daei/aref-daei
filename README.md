@@ -8,15 +8,17 @@
 
 - Back-end developer focused on **Java Spring**
 - Skilled in **algorithmic programming** and **data structures**
+- Experienced with **SQL** and **relational databases**
 - Passionate about **research**, especially in **OOP** and **quantum computing**
-- Proficient in **Python, C/C++, Java, Linux, Git, Docker**
+- Proficient in **Python, C/C++, Java, SQL, Linux, Git, Docker**
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Python, C/C++, Java  
+- **Languages:** Python, C/C++, Java, SQL  
 - **Back-end:** Java Spring (Boot, Data, etc.)  
+- **Databases:** MySQL, PostgreSQL, relational DB design  
 - **Tools:** Git, Docker, Linux  
 - **Other:** Competitive programming, clean code, debugging
 
