@@ -1,55 +1,41 @@
 # Hi, I'm Aref Daei 👋
 
-🎓 Bachelor’s Student | 💻 Back-end Developer | 🧩 Algorithmic Programmer | 🔬 Researcher
+🎓 CS Undergrad | 💻 Back-end Developer | 🧠 Problem Solver | 🔬 Tech Enthusiast
 
 ---
 
 ## 🚀 About Me
 
-- Passionate about **problem-solving** and research – I never give up until the job is done.
-- Specialized in **back-end development with Java Spring**.
-- Professional in **algorithmic programming** and data structures.
-- Deeply interested in **object-oriented philosophy** and **quantum computer programming**.
-- Proficient in **Python, C, C++, Java, Linux, Git, Docker**.
+- Back-end developer focused on **Java Spring**
+- Skilled in **algorithmic programming** and **data structures**
+- Passionate about **research**, especially in **OOP** and **quantum computing**
+- Proficient in **Python, C/C++, Java, Linux, Git, Docker**
 
 ---
 
-## 🛠️ My Top Skills
+## 🛠️ Tech Stack
 
-- **Languages:** Python, C, C++, Java
-- **Back-end:** Java Spring (Spring Boot, Spring Data, etc.)
-- **Systems:** Linux, Git, Docker
-- **Algorithmic Programming:** Data structures, competitive programming
+- **Languages:** Python, C/C++, Java  
+- **Back-end:** Java Spring (Boot, Data, etc.)  
+- **Tools:** Git, Docker, Linux  
+- **Other:** Competitive programming, clean code, debugging
 
 ---
 
 ## 🔍 Research & Interests
 
-- Exploring the intersection of **object-oriented design** and **modern computing paradigms**
-- Delving into **quantum computer programming**
-- Lifelong learner and always up for a new challenge!
+- Object-oriented design & modern computing  
+- Quantum programming  
+- Always curious and eager to learn
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Find Me Here
 
-- [LinkedIn](https://www.linkedin.com/in/aref-daei)
-- [X (Twitter)](https://x.com/rfdaei)
+- [LinkedIn](https://www.linkedin.com/in/aref-daei)  
+- [Twitter](https://x.com/rfdaei)  
 - [Personal Website](https://ardastudio.ir)
 
 ---
 
-## 🎨 Hobbies & Passions
-
-- Enthusiast of both **modern and traditional art**
-- Love **cycling** & **hiking** – always looking for the next adventure outdoors
-
----
-
-> “I am a researcher and problem-solver; I will not give up until I finish a task.”
-
----
-
-<!--
-**aref-daei/aref-daei** is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
--->
+> “I’m a problem-solver. I don’t stop until it’s done.”
