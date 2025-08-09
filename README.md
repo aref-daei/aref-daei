@@ -16,26 +16,26 @@
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Python, C/C++, Java, SQL  
-- **Back-end:** Java Spring (Boot, Data, etc.)  
-- **Databases:** MySQL, PostgreSQL, relational DB design  
-- **Tools:** Git, Docker, Linux  
+- **Languages:** Python, C/C++, Java, SQL
+- **Back-end:** Java Spring (Boot, Data, etc.)
+- **Databases:** SQL Server, MySQL, relational DB design
+- **Tools:** Git, Docker, Linux
 - **Other:** Competitive programming, clean code, debugging
 
 ---
 
 ## 🔍 Research & Interests
 
-- Object-oriented design & modern computing  
-- Quantum programming  
+- Object-oriented design & modern computing
+- Quantum programming
 - Always curious and eager to learn
 
 ---
 
 ## 🌐 Find Me Here
 
-- [LinkedIn](https://www.linkedin.com/in/aref-daei)  
-- [Twitter](https://x.com/rfdaei)  
+- [LinkedIn](https://www.linkedin.com/in/aref-daei)
+- [Twitter](https://x.com/rfdaei)
 - [Personal Website](https://ardastudio.ir)
 
 ---
